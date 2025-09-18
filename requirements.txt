@@ -1,0 +1,5 @@
+Flask
+streamlit
+pillow
+pymupdf
+PyPDF2
